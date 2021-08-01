@@ -1,0 +1,34 @@
+body{
+        background-image: url(./images/img2.jpg);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        width: 80%;
+        height: 20px solid #fff;
+        padding: 20px;
+        margin : 20px auto;
+        max-width: 700px;
+    }
+    
+    .blog{
+        margin-bottom: 20px;
+        border:10px solid #87CEEB ;
+        margin : 20px ;
+        padding: 20px;
+    }
+    .date{
+          color: 	#191970;
+        letter-spacing: 0.2rem;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+    
+    h2{
+        color: #00008d;
+    }
+    #down{
+        border-bottom: 5px solid #d6eeec;
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+        border-radius: 2px;
+    }
